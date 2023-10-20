@@ -1,0 +1,2 @@
+C:\Users\roffp\OneDrive\사진\바탕 화면\학교\2023-1학기\영상처리\OpenCVTest\x64\Debug\OpenCVTest.exe
+C:\Users\roffp\OneDrive\사진\바탕 화면\학교\2023-1학기\영상처리\OpenCVTest\x64\Debug\OpenCVTest.pdb
